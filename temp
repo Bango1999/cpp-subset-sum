@@ -1,0 +1,48 @@
+CASE 0
+tgt sum: 26
+set:
+4, 6, 7, 13, 
+
+CASE 1
+tgt sum: 60
+set:
+90, 70, 50, 30, 10, 20, 100, 40, 80, 
+
+CASE 2
+tgt sum: 101
+set:
+1, 100, 
+
+CASE 3
+tgt sum: 70
+set:
+14, 16, 29, 39, 31, 42, 99, 
+
+CASE 4
+tgt sum: 1500
+set:
+25, 75, 76, 77, 78, 100, 150, 550, 700, 850, 927, 1050, 
+
+CASE 5
+tgt sum: 100
+set:
+20, 40, 60, 80, 
+
+CASE 6
+tgt sum: 100
+set:
+100, 
+
+CASE 7
+tgt sum: 100
+set:
+7, 
+
+Case 0: true
+Case 1: true
+Case 2: true
+Case 3: true
+Case 4: true
+Case 5: true
+Case 6: true
+Case 7: false
